@@ -28,3 +28,4 @@ Analysis of a sales dataset for a clothing store to extract crucial insights by 
     help of pivot table & pivot chart. We will also provide some crucial insights, which will help the client to understand their last year's sales and customers and increase their 
     sales more in the next year. 
     
+![Screenshot (151)](https://github.com/CoderNitu/SNP-Store-Data-Analysis/assets/87817227/c2511885-ff48-4f0e-bf24-78b27c04f2f6)
