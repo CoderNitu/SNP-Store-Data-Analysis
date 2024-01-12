@@ -20,7 +20,7 @@ Analysis of a sales dataset for a clothing store to extract crucial insights by 
     
 ## 4. DATA ANALYSIS :
 
-     We will analyze the dataset that we have by solving all the key sample questions. I will provide the questions to my project rep as "Key Questions"
+     We will analyze the dataset that we have by solving all the key sample questions. I will provide the questions to my project repo as "Key Questions"
    
 ## 5. PRESENT THE DATA :
 
