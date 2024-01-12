@@ -6,8 +6,8 @@ Analysis of a sales dataset for a clothing store to extract crucial insights by 
 
 ## 1. DATA COLLECTION :
 
-   Collected annual sales data for a clothing store and imported it into MS Excel using Power Query for EDA (Exploratory Data Analysis). We can find the Excel file in my project repo as 
-   "Excel Project Dataset"
+     Collected annual sales data for a clothing store and imported it into MS Excel using Power Query for EDA (Exploratory Data Analysis). We can find the Excel file in my project repo 
+     as "Excel Project Dataset"
    
 ## 2.  DATA CLEANING :
 
