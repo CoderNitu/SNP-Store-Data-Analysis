@@ -28,7 +28,7 @@ Analysis of a sales dataset for a clothing store to extract crucial insights by 
 ## 5. PRESENT THE DATA :
 
     This is the last step where we will present a report to the client by creating a visually appealing dashboard, in our case we present an annual sales report after analyzing the 
-    dataset with the help of pivot table & pivot chart. We will also provide some crucial insights, which will help the client to understand their last year's sales and customers and 
+    dataset with the help of pivot tables and charts. We will also provide some crucial insights, which will help the client to understand their last year's sales and customers and 
     increase their sales more in the next year. 
 
 https://github.com/CoderNitu/SNP-Store-Data-Analysis/assets/87817227/cd115634-095b-4ad6-8e02-cc57de61e2d4
